@@ -13,6 +13,7 @@ refactoring, we were able to get the same exact results. Additionally, after ref
 faster execution time. For the original VBA script, the execution time was around 0.85 seconds or higher for both 2017 and 2018. However,
 the execution times on the refactored script is around 0.79 seconds for 2017 and 0.81 seconds for 2018. Screenshots for the times on the 
 refactored script can be seen here: 
+
 ![](Resources/VBA_Challenge_2017.PNG)
 ![](Resources/VBA_Challenge_2018.PNG)
 
